@@ -8,7 +8,7 @@ const Tarefa = () => {
     <Card>
       <Titulo>Projeto Lista de tarefas</Titulo>
       <Paragrafo tipo="secundario">Lista de tarefas feita com Vue JS</Paragrafo>
-      <LinkBotao>Visualizar</LinkBotao>
+      <LinkBotao href="#">Visualizar</LinkBotao>
     </Card>
   )
 }
